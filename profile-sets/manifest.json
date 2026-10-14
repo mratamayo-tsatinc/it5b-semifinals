@@ -15,6 +15,13 @@
       "description": "A 90-minute C semifinals session covering operator qualification, expressions, tracing, simulation, and code ordering with selection statements.",
       "file": "c-semifinals-selection-statements.json",
       "enabled": true
+    },
+    {
+      "id": "java-semifinals-selection-statements",
+      "name": "Java Semifinals: Selection Statements",
+      "description": "A 90-minute C semifinals session covering operator qualification, expressions, tracing, simulation, and code ordering with selection statements.",
+      "file": "java-semifinals-selection-statements.json",
+      "enabled": true
     }
   ]
 }

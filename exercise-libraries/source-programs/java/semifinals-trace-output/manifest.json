@@ -1,0 +1,11 @@
+{
+  "title": "Java Semifinals - Trace Output with Computation",
+  "exercises": [
+    "CafeOrder.java",
+    "LaundryService.java",
+    "MobileWallet.java",
+    "PrintShop.java",
+    "DeliveryRoute.java"
+  ]
+}
+
